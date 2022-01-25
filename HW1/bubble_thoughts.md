@@ -1,2 +1,5 @@
 I had the chance to work with Bubble for a number of days in the past week and created a portion of the tutorial app which can be found here: https://recipemwade2.bubbleapps.io/version-test?debug_mode=true <br>
 
+The pros of this type of system is you can do rapid prototyping.  Prior to this experience I knew of rapid mockup systems, but was not aware of systems that also included easy database features.  With the inclusion of databse integration, Bubble allows for complete functioning concepts.  Bubble touts its platform as a solution for making custom real world apps. However, for many custom devolpment use cases, it falls short due to the high level of development abstraction present in a no code development system. <br>
+
+When the users needs are what Bubble provides it is a good solution, however, the moment your needs are outside of their feature set you don't have any option to move forward with developing your intended feature.  Also, when bugs arise you are so far removed from the actual code you cannot make more fine tuned changes due to the abstracted nature of the no-code system.

@@ -1,0 +1,3 @@
+For this semesster's class project I would like to work on the UI Design and integration of the designed image assets into the mockups if need be.  I did some research and found Adobe Xd and Mockplus as two  design prototyping options.  Bubble.io is also an option but also includes more functionality prototyping than just design.<br>
+
+In addition to the UI Design and flow planning of the app, I am also interested in working on the database of the project.
